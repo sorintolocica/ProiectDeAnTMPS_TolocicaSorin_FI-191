@@ -1,0 +1,70 @@
+[
+  {
+    "id": "creational",
+    "title": "Creational",
+    "color": "0xFFF996d75",
+    "patterns": [
+    
+      {
+        "id": "builder",
+        "title": "Builder",
+        "description": "Pattern pentru crearea in mod structurat (incremental) de obiecte complexe",
+        "mediumUrl": "https://acs.ase.ro/Media/Default/documents/cts/curs/Curs%20CTS%20%20Design%20Patterns%202016.pdf"
+      },
+      {
+        "id": "factory-method",
+        "title": "Factory Method",
+        "description": "Pattern ce defineste o metoda pentru crearea de obiecte din aceeasi familie interfata in subclase",
+        "mediumUrl": "https://acs.ase.ro/Media/Default/documents/cts/curs/Curs%20CTS%20%20Design%20Patterns%202016.pdf"
+      }
+      
+    ]
+  },
+  {
+    "id": "structural",
+    "title": "Structural",
+    "color": "0xFFF996d75",
+    "patterns": [
+      
+      
+      {
+        "id": "decorator",
+        "title": "Decorator",
+        "description": "Extinde intr-un mod transparent un obiect",
+        "mediumUrl": "https://acs.ase.ro/Media/Default/documents/cts/curs/Curs%20CTS%20%20Design%20Patterns%202016.pdf"
+      },
+      
+     
+      {
+        "id": "proxy",
+        "title": "Proxy",
+        "description": "Interfață către alte obiecte/resurse",
+        "mediumUrl": "https://acs.ase.ro/Media/Default/documents/cts/curs/Curs%20CTS%20%20Design%20Patterns%202016.pdf"
+      }
+    ]
+  },
+  {
+    "id": "behavioral",
+    "title": "Behavioral",
+    "color": "0xFFF996d75",
+    "patterns": [
+    
+      {
+        "id": "command",
+        "title": "Command",
+        "description": "Permite obiectelor din seturile de instrumente sa genereze cereri catre obiecte de aplicatie neprecizate, prin transformarea cererii insasi intr-un obiect",
+        "mediumUrl": "https://acs.ase.ro/Media/Default/documents/cts/curs/Curs%20CTS%20%20Design%20Patterns%202016.pdf"
+      },
+    
+     
+      {
+        "id": "memento",
+        "title": "Memento",
+        "description": "Salveazeaza si restaureaza starea unui obiect",
+        "mediumUrl": "https://acs.ase.ro/Media/Default/documents/cts/curs/Curs%20CTS%20%20Design%20Patterns%202016.pdf"
+      }
+      
+      
+    ]
+  }
+]
